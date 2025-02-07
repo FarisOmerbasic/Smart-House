@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ScbfkpGh+Nk=",
+  "dgSpecHash": "WuYo9/IfonQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Coding Battle\\Coding Battle\\Coding Battle.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\projects\\Coding-Battle\\Coding Battle\\Coding Battle.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],

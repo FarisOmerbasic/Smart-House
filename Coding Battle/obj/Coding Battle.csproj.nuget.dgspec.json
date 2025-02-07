@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Coding Battle\\Coding Battle\\Coding Battle.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\projects\\Coding-Battle\\Coding Battle\\Coding Battle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Coding Battle\\Coding Battle\\Coding Battle.csproj": {
+    "C:\\Users\\Admin\\Desktop\\projects\\Coding-Battle\\Coding Battle\\Coding Battle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Coding Battle\\Coding Battle\\Coding Battle.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\projects\\Coding-Battle\\Coding Battle\\Coding Battle.csproj",
         "projectName": "Coding Battle",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Coding Battle\\Coding Battle\\Coding Battle.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\projects\\Coding-Battle\\Coding Battle\\Coding Battle.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Coding Battle\\Coding Battle\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\projects\\Coding-Battle\\Coding Battle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
