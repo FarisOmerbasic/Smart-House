@@ -12,3 +12,18 @@ C:\Users\Admin\source\repos\Coding Battle\Coding Battle\obj\Debug\net6.0\refint\
 C:\Users\Admin\source\repos\Coding Battle\Coding Battle\obj\Debug\net6.0\Coding Battle.pdb
 C:\Users\Admin\source\repos\Coding Battle\Coding Battle\obj\Debug\net6.0\Coding Battle.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Coding Battle\Coding Battle\obj\Debug\net6.0\ref\Coding Battle.dll
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\bin\Debug\net6.0\Coding Battle.exe
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\bin\Debug\net6.0\Coding Battle.deps.json
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\bin\Debug\net6.0\Coding Battle.runtimeconfig.json
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\bin\Debug\net6.0\Coding Battle.dll
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\bin\Debug\net6.0\Coding Battle.pdb
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\obj\Debug\net6.0\Coding Battle.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\obj\Debug\net6.0\Coding Battle.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\obj\Debug\net6.0\Coding Battle.AssemblyInfo.cs
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\obj\Debug\net6.0\Coding Battle.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\obj\Debug\net6.0\Coding Battle.sourcelink.json
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\obj\Debug\net6.0\Coding Battle.dll
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\obj\Debug\net6.0\refint\Coding Battle.dll
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\obj\Debug\net6.0\Coding Battle.pdb
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\obj\Debug\net6.0\Coding Battle.genruntimeconfig.cache
+c:\Users\Admin\Desktop\projects\Coding-Battle\Coding Battle\obj\Debug\net6.0\ref\Coding Battle.dll
