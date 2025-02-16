@@ -1,2 +1,2 @@
-# Coding Battle
+# Smart House
  
